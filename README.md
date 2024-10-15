@@ -3,81 +3,66 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Privacy Policy - My Simple Website</title>
-    <link rel="stylesheet" href="styles.css"> <!-- Optional: Link to an external CSS file -->
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            margin: 0;
-            padding: 0;
-            background-color: #f4f4f4;
-        }
-        header {
-            background: #35424a;
-            color: #ffffff;
-            padding: 20px;
-            text-align: center;
-        }
-        nav {
-            margin: 20px 0;
-        }
-        nav a {
-            margin: 0 15px;
-            color: #ffffff;
-            text-decoration: none;
-        }
-        .container {
-            width: 80%;
-            margin: auto;
-            overflow: hidden;
-            background: #ffffff;
-            padding: 20px;
-            box-shadow: 0 0 10px rgba(0,0,0,0.1);
-        }
-        footer {
-            text-align: center;
-            padding: 10px;
-            background: #35424a;
-            color: #ffffff;
-            position: relative;
-            bottom: 0;
-            width: 100%;
-        }
-    </style>
+    <title>My Website</title>
+    <link rel="stylesheet" href="styles.css">
 </head>
 <body>
+    <header>
+        <h1>Welcome to My Website</h1>
+        <nav>
+            <ul>
+                <li><a href="#about">About Us</a></li>
+                <li><a href="#blog">Blog Posts</a></li>
+                <li><a href="#privacy-policy">Privacy Policy</a></li>
+                <li><a href="#terms">Terms and Conditions</a></li>
+                <li><a href="#contact">Contact Us</a></li>
+            </ul>
+        </nav>
+    </header>
 
-<header>
-    <h1>Privacy Policy</h1>
-    <nav>
-        <a href="index.html">Home</a>
-        <a href="post.html">Blog Post</a>
-        <a href="contact.html">Contact</a>
-        <a href="privacy.html">Privacy Policy</a>
-        <a href="terms.html">Terms and Conditions</a>
-    </nav>
-</header>
+    <main>
+        <section id="about">
+            <h2>About Us</h2>
+            <p>We are committed to providing valuable information and resources to our visitors.</p>
+        </section>
 
-<div class="container">
-    <h2>Introduction</h2>
-    <p>Your privacy is important to us. This Privacy Policy explains how we collect, use, and protect your personal information.</p>
+        <section id="blog">
+            <h2>Blog Posts</h2>
+            <p>Check out our latest articles on various topics!</p>
+            <article>
+                <h3>Blog Post Title</h3>
+                <p>Excerpt from the blog post...</p>
+                <a href="#">Read More</a>
+            </article>
+        </section>
 
-    <h3>Information Collection</h3>
-    <p>We may collect personal information such as your name and email address when you contact us or subscribe to our newsletter.</p>
+        <section id="privacy-policy">
+            <h2>Privacy Policy</h2>
+            <p>Your privacy is important to us. We ensure that your information is kept safe and secure.</p>
+        </section>
 
-    <h3>Use of Information</h3>
-    <p>We use your information to communicate with you and improve our services.</p>
+        <section id="terms">
+            <h2>Terms and Conditions</h2>
+            <p>Please read our terms and conditions carefully before using our website.</p>
+        </section>
 
-    <h3>Data Security</h3>
-    <p>We take reasonable measures to protect your information. However, no method of transmission over the internet is 100% secure.</p>
+        <section id="contact">
+            <h2>Contact Us</h2>
+            <p>If you have any questions, feel free to reach out to us!</p>
+            <form action="#" method="post">
+                <label for="name">Name:</label>
+                <input type="text" id="name" name="name" required>
+                <label for="email">Email:</label>
+                <input type="email" id="email" name="email" required>
+                <label for="message">Message:</label>
+                <textarea id="message" name="message" required></textarea>
+                <button type="submit">Send Message</button>
+            </form>
+        </section>
+    </main>
 
-    <h3>Changes to This Policy</h3>
-    <p>We may update this Privacy Policy from time to time. We will notify you of any changes by posting the new policy on this page.</p>
-</div>
-
-<footer>
-    <p>&copy; 2024 My Simple Website</p>
-</footer>
-
+    <footer>
+        <p>&copy; 2024 My Website. All rights reserved.</p>
+    </footer>
 </body>
 </html>
