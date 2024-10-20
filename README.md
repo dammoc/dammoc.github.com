@@ -21,23 +21,23 @@
 <p1 style="font-size:22px;">Cute and Fun: Use friendly ghosts, smiling pumpkins, and colorful decorations.</p1>
 
 <h3 style="font-size:35px;">2. Front Yard Decorations</h3>
-<p1 style="font-size:22px;"></p1>Your front yard is the first thing visitors will see. Here are some ideas
+<p1 style="font-size:22px;"> Your front yard is the first thing visitors will see. Here are some ideas
 Pumpkins: Carve or paint pumpkins and place them on your steps or porch.</p1>
 
-<h3 style="font-size:30px; text-align:center;">3. Indoor Decorations</h3>
+<h3 style="font-size:30px;">3. Indoor Decorations</h3>
 <p1> Make your home feel festive inside, too! <br>Throw Pillows: Use pillows with Halloween designs <br>Blankets: Drape orange or black blankets over your couch</p1>
 
-<h3 style="font-size:30px; text-align:center;">4. DIY Decorations</h3>
-<p1 style="font-size:22px; text-align:center;"></p1>>rr</p1>
+<h3 style="font-size:30px;">4. DIY Decorations</h3>
+<p1 style="font-size:22px;"> If you like making things yourself, try these simple DIY ideas. <br>Ghosts: Take white balloons, draw faces on them with a marker, and hang them on strings to create floating ghosts. <br>Paper Bats: Cut bat shapes from black paper and stick them to the walls. <br>Spider Webs: Use cotton balls or string to create spider webs in corners. <br>Jar Lanterns: Paint jars orange and place candles or lights inside for glowing lanterns.</p1>
 
-<h3 style="font-size:30px; text-align:center;">5. Adding Spooky Sounds and Smells</h3>
-<p1 style="font-size:22px; text-align:center;"></p1>>rr</p1>
+<h3 style="font-size:30px;">5. Adding Spooky Sounds and Smells</h3>
+<p1 style="font-size:22px;">To make your home even spookier, think about adding sounds and smells. <br>Music: Play Halloween-themed music or sound effects, like howling wolves or cackling witches. <br>Sound Machines: Use a sound machine that plays spooky noises to surprise guests. <br>Candles: Use candles that smell like pumpkin or cinnamon. <br>Potpourri: Make potpourri with spices like cloves and cinnamon for a cozy scent.</p1>
 
-<h3 style="font-size:30px; text-align:center;">6. Final Touches</h3>
-<p1 style="font-size:22px; text-align:center;"></p1>>rr</p1>
+<h3 style="font-size:30px;">6. Final Touches</h3>
+<p1 style="font-size:22px;"> Seasonal Plants: Add fall plants like mums or decorative corn outside. <br>Costumes: If you want, wear matching costumes or dress up to greet trick-or-treaters! <br>Lighting: Use dim lighting or colored light bulbs to create a Halloween mood.</p1>
 
-<h3 style="font-size:30px; text-align:center;">7. Safety Tips</h3>
-<p1 style="font-size:22px; text-align:center;"></p1>>rr</p1>
+<h3 style="font-size:30px;">7. Safety Tips</h3>
+<p1 style="font-size:22px;"> Make sure all decorations are safe and won’t cause trips or falls. If using lights, check that they are in good working condition. Keep any candles away from flammable items.</p1>
 
 <h2 style="font-size:40px;">FAQ</h2>
 <h3 style="font-size:30px;">When should I start decorating for Halloween?</h3>
