@@ -1,7 +1,7 @@
 <html>
 <head>
+<title> home decor halloween ideas </title>
     <meta name="google-site-verification" content="2APIqr1XaPSdtopQ5MXIrhEtvPrubgEQsl6uUanjmo4" />
-<title> Techno Brainz </title>
 </head>
 <body>
 <h1 style="font-size:50px; text-align:center;">7 Home decor halloween ideas 2024</h1>
