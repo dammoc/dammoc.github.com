@@ -13,3 +13,9 @@
 <h2 style="font-size:50px; text-align:center;">Home Decor Halloween Ideas: A Complete Guide</h2>
 <p style="font-size:22px; text-align: center;">Let's explore these 7 home decor Halloween ideas to make your home the spookiest on the block!</p>
 <h3 style="font-size:50px; text-align:center;">1.Choose a Theme</h3>
+<h3 style="font-size:35px; text-align:center;">Classic halloween</h3>
+<p1 style="font-size:22px; text-align:center;">Classic Halloween: Think pumpkins, ghosts, bats, and black cats.</p1>
+
+<h3 style="font-size:35px; text-align:center;">Spooky and gothic</h3>
+<img style="width: 33%" src="spooky.jpg">
+<p1 style="font-size:22px; text-align:center;">Spooky and Gothic: Use dark colors, skulls, and eerie items.</p1>
