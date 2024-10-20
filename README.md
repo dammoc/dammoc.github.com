@@ -53,4 +53,7 @@ Pumpkins: Carve or paint pumpkins and place them on your steps or porch.</p1>
 <p1 style="font-size:22px;">Consider Halloween-themed snacks like pumpkin-shaped cookies, caramel apples, or candy corn.</p1>
 
 <h2 style="font-size:30px;">Conclusion</h2>
-<p1 style="font-size:22px;">incorporating festive home decor Halloween ideas is a fantastic way to celebrate the spooky season. <br>Whether you opt for DIY crafts or store-bought decorations, you can transform your space into a hauntingly beautiful environment. <br>Get creative and allow your imagination to shine, ensuring your home is filled with joy and excitement throughout Halloween. <br>I hope you like this guide to help you with Halloween decor for your home.</p1>
+<p1 style="font-size:22px;">In conclusion, incorporating festive home decor Halloween ideas is a fantastic way to celebrate the spooky season.</p1>
+<p1 style="font-size:22px;">Whether you opt for DIY crafts or store-bought decorations, you can transform your space into a hauntingly beautiful environment.</p1>
+<p1 style="font-size:22px;">Get creative and allow your imagination to shine, ensuring your home is filled with joy and excitement throughout Halloween.</p1>
+<p1 style="font-size:22px;">I hope you like this guide to help you with Halloween decor for your home.</p1>
