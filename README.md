@@ -1,5 +1,6 @@
 <html>
 <head>
+    <meta name="google-site-verification" content="2APIqr1XaPSdtopQ5MXIrhEtvPrubgEQsl6uUanjmo4" />
 <title> Techno Brainz </title>
 </head>
 <body>
