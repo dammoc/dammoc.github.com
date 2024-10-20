@@ -12,20 +12,20 @@
     In this guide, <br>we'll share 7 creative and easy Home decor Halloween ideas for 2024 that will delight both kids and adults.</p>
 <h2 style="font-size:40px; text-align:center;">Home Decor Halloween Ideas: A Complete Guide</h2>
 <p style="font-size:22px; text-align: center;">Let's explore these 7 home decor Halloween ideas to make your home the spookiest on the block!</p>
-<h3 style="font-size:30px; text-align:center;">1.Choose a Theme</h3>
-<h3 style="font-size:30px; text-align:center;">Classic halloween</h3>
-<p1 style="font-size:22px; text-align: center;">Classic Halloween: Think pumpkins, ghosts, bats, and black cats.</p1>
-<h3 style="font-size:30px; text-align:center;">Spooky and gothic</h3>
-<p1 style="font-size:22px; text-align: center;">Spooky and Gothic: Use dark colors, skulls, and eerie items.</p1>
-<h3 style="font-size:30px; text-align:center;">Cute and fun</h3>
-<p1 style="font-size:22px; text-align: center;">Cute and Fun: Use friendly ghosts, smiling pumpkins, and colorful decorations.</p1>
+<h3 style="font-size:30px;">1.Choose a Theme</h3>
+<h3 style="font-size:30px;">Classic halloween</h3>
+<p1 style="font-size:22px;">Classic Halloween: Think pumpkins, ghosts, bats, and black cats.</p1>
+<h3 style="font-size:30px;">Spooky and gothic</h3>
+<p1 style="font-size:22px;">Spooky and Gothic: Use dark colors, skulls, and eerie items.</p1>
+<h3 style="font-size:30px;">Cute and fun</h3>
+<p1 style="font-size:22px;">Cute and Fun: Use friendly ghosts, smiling pumpkins, and colorful decorations.</p1>
 
-<h3 style="font-size:35px; text-align:center;">2. Front Yard Decorations</h3>
+<h3 style="font-size:35px;">2. Front Yard Decorations</h3>
 <p1 style="font-size:22px; text-align: center;"></p1>>Your front yard is the first thing visitors will see. Here are some ideas
 Pumpkins: Carve or paint pumpkins and place them on your steps or porch.</p1>
 
 <h3 style="font-size:30px; text-align:center;">3. Indoor Decorations</h3>
-<p1 Make your home feel festive inside, too! <br>Throw Pillows: Use pillows with Halloween designs <br>Blankets: Drape orange or black blankets over your couch</p1>
+<p1> Make your home feel festive inside, too! <br>Throw Pillows: Use pillows with Halloween designs <br>Blankets: Drape orange or black blankets over your couch</p1>
 
 <h3 style="font-size:30px; text-align:center;">4. DIY Decorations</h3>
 <p1 style="font-size:22px; text-align:center;"></p1>>rr</p1>
